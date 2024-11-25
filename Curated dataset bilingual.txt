@@ -611,3 +611,33 @@
 
 202: You will re-learn to understand and trust your body.
 202: Вы вновь научитесь понимать своё тело и доверять ему.
+
+203: He thought and thought, but couldn't solve the problem.
+203: Он думал-думал, но так и не смог решить задачу.
+
+204: We waited and waited for the train, but it never came.
+204: Мы ждали-ждали поезд, а он так и не пришел.
+
+205: She kept searching for the keys, but found them only in the evening.
+205: Она искала-искала ключи, но нашла их только вечером.
+
+206: The children were playing in the yard until it rained.
+206: Дети играли-играли во дворе, пока не пошел дождь.
+
+207: I kept staring at the clock, but the time passed too slowly.
+207: Я смотрел-смотрел на часы, но время шло слишком медленно.
+
+208: We kept walking in the park until it got dark.
+208: Мы гуляли-гуляли по парку, пока не стемнело.
+
+209: He kept dialing, but no one picked up.
+209: Он звонил-звонил, но никто не взял трубку.
+
+210: The cat was sitting on the window and then fell asleep.
+210: Кот сидел-сидел на окне, а потом уснул.
+
+211: She kept reading the book, but she didn't understand the story.
+211: Она читала-читала книгу, но так и не поняла сюжет.
+
+212: I searched and searched for inspiration, but I never found it.
+212: Я искал-искал вдохновение, но так и не нашел его.
